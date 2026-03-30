@@ -9,13 +9,13 @@ Passionate about game development (C++) and building interactive systems<br>Curr
 Short answer: there isn’t an official, permanent “always-free” way to use **Claude Opus**. Opus is a premium model, so any free access (if available) is limited.
 
 **Legit options to try (when available):**
-- **Claude.ai free tier:** Sign up and check which models are on the free plan. Free tiers typically include smaller models (like Sonnet/Haiku), not Opus.
+- **Claude.ai free tier:** Sign up and check which models are on the free plan. Free tiers may include smaller models (like Sonnet/Haiku), and Opus is often not included—verify current availability.
 - **Trial or promo credits:** New accounts sometimes get limited credits you can spend on Opus until they run out.
 - **Student/partner programs:** Occasionally, education or partner programs provide limited credits—check official announcements.
 
 **If you need fully free usage:** consider open-source alternatives (e.g., Llama, Mistral) that can run locally or on free tiers of cloud providers.
 
-**Important:** Avoid unofficial “free keys” or bypasses—those violate terms and can put your accounts at risk. For the latest details, always check the official pricing page: https://www.anthropic.com/pricing
+**Important:** Avoid unofficial “free keys” or bypasses—those violate terms and can put your accounts at risk. For the latest details, always check the official pricing page (search “Anthropic pricing” if the URL changes): https://www.anthropic.com/pricing
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rohit-Mahata&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohit-Mahata&theme=dark&hide_border=false)<br/>
